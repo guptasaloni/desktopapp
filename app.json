@@ -1,0 +1,17 @@
+{
+  "name": "desktopapp",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "http://"
+    }
+  ]
+}
